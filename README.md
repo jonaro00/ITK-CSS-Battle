@@ -1,6 +1,6 @@
-# ITK LAN 0x38 CSS battle
+# ITK LAN CSS battles
 
-Task: Recreate NAT with only HTML and CSS, with as few characters as possible.
+Task: Recreate an image with only HTML and CSS, with as few characters as possible.
 
 ## Files
 
